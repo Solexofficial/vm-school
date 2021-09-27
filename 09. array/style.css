@@ -1,0 +1,26 @@
+h1 {
+	color: #aaa;
+	border: 1px solid #222;
+	border-style: dotted;
+	/* none
+
+italic
+
+oblique
+
+unset
+
+normal */
+	font-style: ;
+}
+
+@keyframes h1animate {
+	from {
+		color: #333;
+		transform: none;
+	}
+	to {
+		color: #48ff00;
+		transform: scale(0.2);
+	}
+}
